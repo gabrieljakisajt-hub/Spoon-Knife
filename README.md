@@ -18,4 +18,4 @@ troisieme ligne ajouter
 ## Revue de code
 
 Cette ligne contien une faute.
-Le projet sert a m'entrainer.
+Le projet sert à m'entraîner.
