@@ -17,5 +17,5 @@ troisieme ligne ajouter
 
 ## Revue de code
 
-Cette ligne contien une faute.
+Cette ligne contient une faute.
 Le projet sert à m'entraîner.
