@@ -14,3 +14,8 @@ Je m'entraine au fork avec Spoon-Knife.
 Deuxieme ligne ajoutee pour la leçon sur les Pull Requests.
 
 troisieme ligne ajouter
+
+## Revue de code
+
+Cette ligne contient une faute.
+Le projet sert à m'entraîner.
